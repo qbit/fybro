@@ -19,6 +19,7 @@ var (
 		"discord":  initDiscord,
 		"telegram": initTelegram,
 		"whatsapp": initWhatsApp,
+		"matrix":   initMatrix,
 	}
 )
 
